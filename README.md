@@ -1,4 +1,12 @@
 # LoginUI-PM5
-Better LoginUI for pm5 by RalDev
+LoginUI plugin for pocketmine pm5
 
-My first plugin, sorry, i don't know how to use github :v
+Use PocketMine-MP5 so that this plugin works
+well and is supported
+
+This is a plugin made by me [RalDev], don't
+just claim someone else's plugin!
+
+[ My first plugin for PocketMine-MP ]
+
+>>> RalDev <<<
